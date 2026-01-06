@@ -1,0 +1,7 @@
+{
+  "name": "BillingNDN3",
+  "description": "A comprehensive internet billing and customer management system featuring dynamic dashboards, master data management, and AI-driven financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
